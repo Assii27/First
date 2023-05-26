@@ -3,6 +3,7 @@
 class CheckVoice {
     public void Voice(){
         System.out.println("Selected Animal Voice");
+        System.out.println("Checking git commit");
     }
 }
 
